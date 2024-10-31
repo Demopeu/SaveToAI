@@ -1,0 +1,6 @@
+train: C:/Users/SSAFY/Desktop/yolov8/datasets_classify/train
+val: C:/Users/SSAFY/Desktop/yolov8/datasets_classify/valid
+test: C:/Users/SSAFY/Desktop/yolov8/datasets_classify/test
+
+nc: 6
+names: ['casual_look', 'classic_look', 'minimal_look','chic_look','sporty_look', 'street_look']
